@@ -1,0 +1,22 @@
+{
+	"name": "react-fb-login",
+	"version": "1.0.0",
+	"description": "A Component React for Facebook Login",
+	"main": "index.tsx",
+	"repository": "https://github.com/jiraiya103/react-fb-login.git",
+	"author": "DungPhamTien",
+	"license": "MIT",
+	"keywords": [
+		"facebook-login",
+		"react-facebook-login",
+		"react-fb-login"
+	],
+	"bugs": {
+		"url": "https://github.com/jiraiya103/react-fb-login/issues"
+	},
+	"homepage": "https://github.com/jiraiya103/react-fb-login",
+	"dependencies": {
+		"react": "^16.13.1",
+		"react-dom": "^16.13.1"
+	}
+}
